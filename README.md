@@ -70,9 +70,9 @@ This repository contains various data science projects, each focusing on differe
 
       You can do this using pip:
 
-         ```
-         pip install -r requirements.txt
-         ```
+   ``` bash
+      pip install -r requirements.txt
+   ```
 
 4. **Run a Jupyter Notebook:**
 
