@@ -58,4 +58,38 @@ This repository contains various data science projects, each focusing on differe
    ```bash
    git clone https://github.com/yourusername/repositoryname.git
    ```
+2. **Navigate to the Project Directory:**
 
+   ```
+      cd repositoryname
+   ```
+
+3. **Install Required Packages: **
+
+      You may need to install the necessary Python libraries. 
+
+      You can do this using pip:
+
+         ```
+         pip install -r requirements.txt
+         ```
+
+4. **Run a Jupyter Notebook:**
+
+      Start Jupyter Notebook and open the desired notebook file:
+
+      ```
+      jupyter notebook
+      ```
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+## Contributing
+
+If you would like to contribute to this repository, please open an issue or submit a pull request.
+
+## Contact
+
+For any questions or feedback, please contact goutamhegde2000g@gmail.com.
